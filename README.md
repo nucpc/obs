@@ -10,8 +10,9 @@
 
 ## Filters for MIC
 
-Audio Filters
-	Noise Suppression
+### Audio Filters
+```
+        Noise Suppression
 		Suppression Lelel -33dB
 	Noise Gate  = dont need if you use Expander
 		Close Threshold -32db
@@ -35,3 +36,4 @@ Audio Filters
 	Limiter
 		Threshold -6.00 dB
 		Release 60 ms
+```
