@@ -10,7 +10,7 @@
 
 ## Filters for MIC
 
-### Audio Filters
+### Audio Filters Basic configuration
 ```
         Noise Suppression
 		Suppression Lelel -33dB
