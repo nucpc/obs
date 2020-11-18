@@ -37,3 +37,12 @@
 		Threshold -6.00 dB
 		Release 60 ms
 ```
+
+
+
+### Addon for OBS
+[NDI OBS Plugin](https://github.com/Palakis/obs-ndi/releases/tag/4.9.1)
+
+[NDI Virtual INPUT ver4.90](https://b0e4fe3766b8739d74f9-437b8dd50f60b69cf0974b538e50585b.ssl.cf1.rackcdn.com/Utilities/NDI_Tools/NDI%204%20Tools.exe)
+
+
