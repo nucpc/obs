@@ -45,4 +45,8 @@
 
 [NDI Virtual INPUT ver4.90](https://b0e4fe3766b8739d74f9-437b8dd50f60b69cf0974b538e50585b.ssl.cf1.rackcdn.com/Utilities/NDI_Tools/NDI%204%20Tools.exe)
 
+MACOS
 
+[NDI Tools for Mac link. ](https://b0e4fe3766b8739d74f9-437b8dd50f60b69cf0974b538e50585b.ssl.cf1.rackcdn.com/Utilities/SDK/NDI_SDK_Mac/NewTekNDIToolsForMacOS.dmg)
+
+[NDI|HX Driver for Mac link](https://077331edbcb8e68d212a-bfe57ec74076e9cb0c74346d8bd35c21.ssl.cf1.rackcdn.com/NDIHX/OSX/NewTekNDIHXDriverForMacOS.dmg)
