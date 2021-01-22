@@ -42,25 +42,33 @@
 
 Follow this inOrder
 ### Noise Suppresion
-``` Method "RNNoise (higher quality)" ```
+``` 
+	Method "RNNoise (higher quality)" 
+```
 ### Expander
-``` Presets "Expander" ```
-``` Ratio "2.00:1" ```
-``` Threshold "-40.00dB" ```
-``` Attack "3ms" ```
-``` Release "35" ```
-``` Output Gain "7.50dB" ```
-``` Detection "RMS" ```
+```
+	Presets "Expander"
+	Ratio "2.00:1"
+	Threshold "-40.00dB"
+	Attack "3ms"
+	Release "35"
+	Output Gain "7.50dB"
+	Detection "RMS" 
+```
 ### Compressor
-```Ratio "8.00:1"```
-```Threshold "-18.00dB"```
-```Attack "3ms"```
-```Release "35"```
-```Output Gain "1.30dB"```
-```Sidechain/Ducking Source "None"```
-###Limiter
-```Threshold "-11.00dB"```
-```Release "30"```
+```
+	Ratio "8.00:1"
+	Threshold "-18.00dB"
+	Attack "3ms"
+	Release "35"
+	Output Gain "1.30dB"
+	Sidechain/Ducking Source "None"
+```
+### Limiter
+```
+	Threshold "-11.00dB"
+	Release "30"
+```
 
 
 ### Addon for OBS
