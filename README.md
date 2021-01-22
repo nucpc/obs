@@ -76,6 +76,8 @@ Follow this inOrder
 
 [NDI Virtual INPUT ver4.90](https://b0e4fe3766b8739d74f9-437b8dd50f60b69cf0974b538e50585b.ssl.cf1.rackcdn.com/Utilities/NDI_Tools/NDI%204%20Tools.exe)
 
+[NDI® Analysis Tool (Beta)](https://downloads.ndi.tv/Tools/NDI%204%20Analysis%20BETA.exe)
+
 MACOS
 
 [NDI Tools for Mac link. ](https://b0e4fe3766b8739d74f9-437b8dd50f60b69cf0974b538e50585b.ssl.cf1.rackcdn.com/Utilities/SDK/NDI_SDK_Mac/NewTekNDIToolsForMacOS.dmg)
