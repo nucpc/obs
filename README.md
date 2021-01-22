@@ -37,15 +37,15 @@
 		Threshold -6.00 dB
 		Release 60 ms
 ```
-##### UPDATED 2021
+###### UPDATED 2021
 ## OBS Audio Filters
 
 Follow this inOrder
-#### Noise Suppresion
+##### Noise Suppresion
 ``` 
 	Method "RNNoise (higher quality)" 
 ```
-#### Expander
+##### Expander
 ```
 	Presets "Expander"
 	Ratio "2.00:1"
@@ -55,7 +55,7 @@ Follow this inOrder
 	Output Gain "7.50dB"
 	Detection "RMS" 
 ```
-#### Compressor
+##### Compressor
 ```
 	Ratio "8.00:1"
 	Threshold "-18.00dB"
@@ -64,11 +64,11 @@ Follow this inOrder
 	Output Gain "1.30dB"
 	Sidechain/Ducking Source "None"
 ```
-#### Limiter
-```
+##### Limiter
+````
 	Threshold "-11.00dB"
 	Release "30"
-```
+````
 
 
 ### Addon for OBS
