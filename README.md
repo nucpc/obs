@@ -102,5 +102,6 @@ MACOS
 [Audio Monitor 0.4.1](https://obsproject.com/forum/resources/audio-monitor.1186/)
 
 [StreamFX 0.8.3](https://github.com/Xaymar/obs-StreamFX/releases/download/0.8.3/streamfx-windows2019-0.8.3.0-ee225959.exe)
-``` https://github.com/Xaymar/obs-StreamFX/releases/tag/0.8.3
+``` 
+https://github.com/Xaymar/obs-StreamFX/releases/tag/0.8.3
 ```
