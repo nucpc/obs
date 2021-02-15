@@ -100,3 +100,7 @@ MACOS
 [NDI|HX Driver for Mac link](https://077331edbcb8e68d212a-bfe57ec74076e9cb0c74346d8bd35c21.ssl.cf1.rackcdn.com/NDIHX/OSX/NewTekNDIHXDriverForMacOS.dmg)
 
 [Audio Monitor 0.4.1](https://obsproject.com/forum/resources/audio-monitor.1186/)
+
+[StreamFX 0.8.3](https://github.com/Xaymar/obs-StreamFX/releases/download/0.8.3/streamfx-windows2019-0.8.3.0-ee225959.exe)
+``` https://github.com/Xaymar/obs-StreamFX/releases/tag/0.8.3
+```
