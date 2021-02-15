@@ -40,7 +40,15 @@
 ###### UPDATED 2021
 ## OBS Audio Filters
 
-Follow this inOrder
+##Follow this inOrder
+```
+Plantronics Blackwire 3225 Series USB
+```
+##### Gain
+``` 
+	Gain 6.60dB
+```
+
 ##### Noise Suppresion
 ``` 
 	Method "RNNoise (higher quality)" 
@@ -50,9 +58,9 @@ Follow this inOrder
 	Presets "Expander"
 	Ratio "2.00:1"
 	Threshold "-40.00dB"
-	Attack "3ms"
-	Release "35"
-	Output Gain "7.50dB"
+	Attack "5ms"
+	Release "30"
+	Output Gain "6.50dB"
 	Detection "RMS" 
 ```
 ##### Compressor
@@ -61,15 +69,18 @@ Follow this inOrder
 	Threshold "-18.00dB"
 	Attack "3ms"
 	Release "35"
-	Output Gain "1.30dB"
+	Output Gain "2.70dB"
 	Sidechain/Ducking Source "None"
 ```
 ##### Limiter
 ````
-	Threshold "-11.00dB"
+	Threshold "-7.50dB"
 	Release "30"
 ````
 
+```
+VLC set volume 80%
+```
 
 ### OBS Studio Plugins
 [NDI OBS Plugin](https://github.com/Palakis/obs-ndi/releases/tag/4.9.1)
