@@ -93,6 +93,8 @@ old link
 
 [NDI® Analysis Tool (Beta)](https://downloads.ndi.tv/Tools/NDI%204%20Analysis%20BETA.exe)
 
+[NDI Newtek connect](https://go.newtek.com/e/428312/NDICONNECT/6lvf6m/1035736921?h=KeoId4cwIseDqRTiZy0j5MLvTsD6i-Kc0LK_aEMa1gU)
+
 MACOS
 
 [NDI Tools for Mac link. ](https://b0e4fe3766b8739d74f9-437b8dd50f60b69cf0974b538e50585b.ssl.cf1.rackcdn.com/Utilities/SDK/NDI_SDK_Mac/NewTekNDIToolsForMacOS.dmg)
