@@ -107,3 +107,13 @@ MACOS
 ``` 
 https://github.com/Xaymar/obs-StreamFX/releases/tag/0.8.3
 ```
+
+```
+ffmpeg -f dshow -i video="HP HD Webcam":audio="Headset Microphone (Plantronics Blackwire 3225 Series)" -profile:v high -pix_fmt yuvj420p -level:v 4.1 -preset ultrafast -tune zerolatency -vcodec libx264 -r 10 -b:v 512k -s 640x360 -acodec aac -ac 2 -ab 32k -ar 44100 -f mpegts -flush_packets 0 udp://192.177.7.70:5000?pkt_size=131
+
+
+ffmpeg -f dshow -i video="Logitech Webcam C930e":audio="Headset Microphone (Plantronics Blackwire 3225 Series)" -profile:v high -pix_fmt yuvj420p -level:v 4.1 -preset ultrafast -tune zerolatency -vcodec libx264 -r 10 -b:v 512k -s 640x360 -acodec aac -ac 2 -ab 32k -ar 44100 -f mpegts -flush_packets 0 udp://192.177.6.85:5000?pkt_size=1316
+
+ffplay UDP://@127.0.0.1:5000
+```
+
