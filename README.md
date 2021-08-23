@@ -83,7 +83,9 @@ VLC set volume 80%
 ```
 
 ### OBS Studio Plugins
-[NDI OBS Plugin](https://github.com/Palakis/obs-ndi/releases/tag/4.9.1)
+[NDI.TV v5.x.x](https://downloads.ndi.tv/Tools/NDI%205%20Tools.exe)
+
+[NDI OBS Plugin v4.9.1](https://github.com/Palakis/obs-ndi/releases/tag/4.9.1)
 
 added 2021
 [NDI Virtual INPUT ver4.9x](https://downloads.ndi.tv/Tools/NDI%204%20Tools.exe)
